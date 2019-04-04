@@ -146,7 +146,7 @@ div.thongbao-detail td.LItem a, div.thongbao-detail td.LItem a:link {
 div.main-level a, div.main-level a:link, div.main-level a:visited {
 	font-weight: bold;
 	cursor: pointer;
-	color: #ffffff;
+	color: #000;
 }
 ul#topnav li a {
 	padding: 0px 20px 0px 20px;
@@ -905,12 +905,12 @@ div.union_main_image .Union_desc{
 	width:310px;
 }
 .news-tab-thumb-item-left-0{
-	width:130px;
+	width:160px;
 	float:left;
 }
 .news-tab-thumb-item-left-0 img{
-	width:120px;
-	height:90px;
+	width:150px;
+	height:130px;
 }
 .news-tab-thumb-item-content-0{
 	text-align:justify;
