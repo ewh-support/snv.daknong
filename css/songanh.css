@@ -113,7 +113,7 @@ div.thongbao-detail td.LItem a, div.thongbao-detail td.LItem a:link {
 	display: block;
 }
 .logoS {
-	background: url("../img/banner.png") no-repeat left top;
+	background: url("/img/banner.png") no-repeat left top;
 	width: 962px;
 	height: 151px;
 }
@@ -146,7 +146,7 @@ div.thongbao-detail td.LItem a, div.thongbao-detail td.LItem a:link {
 div.main-level a, div.main-level a:link, div.main-level a:visited {
 	font-weight: bold;
 	cursor: pointer;
-	color: #ffffff;
+	color: #000;
 }
 ul#topnav li a {
 	padding: 0px 20px 0px 20px;
@@ -329,12 +329,18 @@ div.menuF1 a:hover,div.home a:hover{
 	font-size:16px!important;
 	padding:20px 0px 10px 0px;
 }
-.Footer-Text div{	
+.Footer-Text div {	
 	font-family:Arial;
 	font-size:12px;
 	color:#fff;
 	line-height:18px
 }
+.repon{
+	font-size: 10px !important;
+	text-align: center;
+}
+
+
 .design{
 	color:#66b8d3!important;float:right;position:relative;top:70px;
 }
@@ -743,7 +749,7 @@ div#UnionNews_menu_mode2{
 	width:287px;
 	height:380px;
 	float:right;
-	background:url("../img/hotRTitle.jpg") no-repeat right top;
+	background:#E89432 no-repeat right top;
 }
 table.lv_union_table_menuheader{	
 	width:auto!important;
@@ -905,12 +911,12 @@ div.union_main_image .Union_desc{
 	width:310px;
 }
 .news-tab-thumb-item-left-0{
-	width:130px;
+	width:160px;
 	float:left;
 }
 .news-tab-thumb-item-left-0 img{
-	width:120px;
-	height:90px;
+	width:150px;
+	height:130px;
 }
 .news-tab-thumb-item-content-0{
 	text-align:justify;
@@ -934,6 +940,7 @@ div.news-tab-thumb-item-title-0 a:hover{
 .lacviet-tabsnews{
 	background:url("../img/tintab-btm.png") no-repeat left bottom;
 	padding-bottom:7px;	
+	padding-right: 10px;
 }
 .ui-tabs-panel{
 	overflow:hidden;
