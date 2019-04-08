@@ -749,7 +749,7 @@ div#UnionNews_menu_mode2{
 	width:287px;
 	height:380px;
 	float:right;
-	background:url("../img/hotRTitle.jpg") no-repeat right top;
+	background:#E89432 no-repeat right top;
 }
 table.lv_union_table_menuheader{	
 	width:auto!important;
@@ -952,7 +952,7 @@ div.news-tab-thumb-item-title-0 a:hover{
 }
 /*TEST THONG BAO*/
 #scroll_header1{
-	height: 362px;
+	height: 345px;
 	background: transparent url("../img/tinnn-btm.png") no-repeat left bottom;
 	overflow: hidden;
 	padding-bottom: 9px;
